@@ -42,7 +42,7 @@ Fix: I was missing importing the required onClick JavaScript code in App.js
                 location: credentials.geolocation[0],
             })
 		
-5. Carousel component can not be made separate.
+5. Carousel component can not be made separate. 
 -> Actually the basic thumb rule of react says, "If your code is being re used, then make a different
    component and reuse that component" But if that is being used in only inside one component then 
    better make that component into that same component.
