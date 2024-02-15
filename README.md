@@ -85,6 +85,12 @@ Application's pages Screenshots:
 
 ![Screenshot (577)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/2e62eab8-8cc8-45fc-8823-0ea93c9a9d07)
 
+![Screenshot (610)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/20d76f26-cb64-4647-b71c-69ef5676e772)
+![Screenshot (612)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/132200f6-9c03-4634-8055-be7d6f3d507c)
+![Screenshot (611)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/65f3e1c9-2571-4094-a2f9-2384d2446b59)
 
-
-
+![Screenshot (613)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/f0d463d7-ba46-442f-aba7-eea6d9f2859d)
+![Screenshot (616)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/06ac6a56-c8bc-4d93-91cc-7a23847b3aa2)
+![Screenshot (615)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/52959fb5-927b-44ce-b064-aa7c18cb7db7)
+![Screenshot (614)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/6e50a3ef-9c67-4f64-aa3e-a783fc005c21)
+![Screenshot (617)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/ac99989a-2208-4098-aa73-8a9300e61a04)
