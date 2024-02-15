@@ -1,4 +1,4 @@
-Go-Feast🍕🍔🍗  A FOOD DELIVERY APP.   
+Go-Feast🍕🍔🍗 <br /> <br />  A FOOD DELIVERY APP.   
 ----------------------------------------------------------------------------------
 
 TECHS USED IN DEVELOPMENT:
@@ -61,10 +61,10 @@ Fix: I was missing importing the required onClick JavaScript code in App.js
 8. Setting the default values of quantity and size after clicking on Add To Cart button.
 9. Was getting blank page in react app.
 Fix: It was a typo. Actually i was writing Children instead of children.
-&nbsp
-&nbsp
-&nbsp
-&nbsp
+<br />
+<br />
+<br />
+<br />
 * Application's pages Screenshots:
 
 ![Screenshot (572)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/47531572-84d5-4002-a7bc-1dcab7672d3c)
