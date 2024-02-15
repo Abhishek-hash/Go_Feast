@@ -68,7 +68,7 @@ Fix: It was a typo. Actually i was writing Children instead of children.
 Application's pages Screenshots:
 <br />
 
-1. Login Page - If new user, then SignUp.
+**1. Login Page - If new user, then SignUp.**
 ![Screenshot (572)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/47531572-84d5-4002-a7bc-1dcab7672d3c)
 
 2. SignUp Page
