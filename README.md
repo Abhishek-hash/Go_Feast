@@ -67,19 +67,22 @@ Fix: It was a typo. Actually i was writing Children instead of children.
 <br />
 Application's pages Screenshots:
 <br />
-
+<br/>
 **1. Login Page - If new user, then SignUp.** <br/>
 <br/>
 
 ![Screenshot (572)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/47531572-84d5-4002-a7bc-1dcab7672d3c)
 
-2. SignUp Page
+**2. SignUp Page** <br/>
+<br/>
 ![Screenshot (571)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/faa38749-8ae7-4ae0-bfe8-c9c686c75280)
 
-3. SignUp Page - Create new user by Filling details.
+**3. SignUp Page - Create new user by Filling details.**<br/>
+<br/>
 ![Screenshot (574)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/b8949923-d2f2-4581-b2f7-9ae28535ef7c)
 
-4. Login by filling the correct details
+**4. Login by filling the correct details**<br/>
+<br/>
 ![Screenshot (575)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/7b421af5-bf46-4876-802a-0dfa248def63)
 
 ![Screenshot (568)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/13b1d5d8-6f74-4210-ae48-fea212d6aadd)
