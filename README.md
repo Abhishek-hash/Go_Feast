@@ -4,19 +4,19 @@
 TECHS USED IN DEVELOPMENT:
 --------------------------
 
-HTML
-CSS
-JavaScript
-React
-React-Router-Dom
-BootStrap Dark
-React BootStrap
-BootStrap 5
-Online Web Fonts (NHaasGroteskDSPro-65Md Fonts)
-bcryptjs (It's a hashing algorithm) Mostly all bcrypt functions are async in nature. Implemented on back end side.
-jwt (It's a athorization token generator algorithm). Implemented on front end side.
-useReducer
-context API
++ HTML
++ CSS
++ JavaScript
++ React
++ React-Router-Dom
++ BootStrap Dark
++ React BootStrap
++ BootStrap 5
++ Online Web Fonts (NHaasGroteskDSPro-65Md Fonts)
++ bcryptjs (It's a hashing algorithm) Mostly all bcrypt functions are async in nature. Implemented on back end side.
++ jwt (It's a athorization token generator algorithm). Implemented on front end side.
++ useReducer
++ context API
 
 
 PROBLEMS FACED DURING DEVELOPMENT: 
