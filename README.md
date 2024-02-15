@@ -60,4 +60,33 @@ Fix: I was missing importing the required onClick JavaScript code in App.js
    
 8. Setting the default values of quantity and size after clicking on Add To Cart button.
 9. Was getting blank page in react app.
-Fix: It was a typo. Actually i was writing Children instead of children.   
+Fix: It was a typo. Actually i was writing Children instead of children.
+
+
+
+
+![Screenshot (572)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/47531572-84d5-4002-a7bc-1dcab7672d3c)
+![Screenshot (571)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/faa38749-8ae7-4ae0-bfe8-c9c686c75280)
+
+
+
+
+![Screenshot (573)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/c7119e2e-6666-4065-b49a-b8dd8777780e)
+![Screenshot (575)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/7b421af5-bf46-4876-802a-0dfa248def63)
+![Screenshot (574)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/b8949923-d2f2-4581-b2f7-9ae28535ef7c)
+
+![Screenshot (568)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/13b1d5d8-6f74-4210-ae48-fea212d6aadd)
+
+
+
+
+![Screenshot (576)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/4e4849be-cbdd-45f0-9c5e-8656d4cd904d)
+
+
+
+
+![Screenshot (577)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/2e62eab8-8cc8-45fc-8823-0ea93c9a9d07)
+
+
+
+
