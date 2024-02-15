@@ -79,7 +79,7 @@ Application's pages Screenshots:
 ![Screenshot (574)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/b8949923-d2f2-4581-b2f7-9ae28535ef7c)
 <br />
 ![Screenshot (568)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/13b1d5d8-6f74-4210-ae48-fea212d6aadd)
-<br />
+
 ![Screenshot (576)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/4e4849be-cbdd-45f0-9c5e-8656d4cd904d)
 
 
