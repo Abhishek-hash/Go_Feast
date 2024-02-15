@@ -65,7 +65,7 @@ Fix: It was a typo. Actually i was writing Children instead of children.
 <br />
 <br />
 <br />
-Application's pages Screenshots:
+**APPLICATION'S PAGES SCREENSHOTS:**
 <br />
 <br/>
 
