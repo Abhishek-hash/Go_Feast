@@ -85,11 +85,10 @@ Fix: It was a typo. Actually i was writing Children instead of children.
 
 **4. Login by filling the correct details**<br/>
 <br/>
-![Screenshot (575)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/7b421af5-bf46-4876-802a-0dfa248def63)
 
-![Screenshot (568)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/13b1d5d8-6f74-4210-ae48-fea212d6aadd)
-
-![Screenshot (576)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/4e4849be-cbdd-45f0-9c5e-8656d4cd904d)
+**5. Home Page** <br/>
+<br/>
+![Screenshot (618)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/9e61371b-0512-43b6-9330-f93dabe44325)
 
 ![Screenshot (577)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/2e62eab8-8cc8-45fc-8823-0ea93c9a9d07)
 
