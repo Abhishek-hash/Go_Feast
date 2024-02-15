@@ -1,4 +1,4 @@
-Go-Feast🍕🍔🍗 <br /> <br />  A FOOD DELIVERY APP.   
+Go-Feast🍕🍔🍗 <br />  A FOOD DELIVERY APP.   
 ----------------------------------------------------------------------------------
 
 TECHS USED IN DEVELOPMENT:
@@ -65,8 +65,8 @@ Fix: It was a typo. Actually i was writing Children instead of children.
 <br />
 <br />
 <br />
-* Application's pages Screenshots:
-
++ Application's pages Screenshots:
+<br />
 ![Screenshot (572)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/47531572-84d5-4002-a7bc-1dcab7672d3c)
 ![Screenshot (571)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/faa38749-8ae7-4ae0-bfe8-c9c686c75280)
 
