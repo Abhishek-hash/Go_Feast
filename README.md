@@ -1,4 +1,4 @@
-FOOD DELIVERY APP   Go-Feast🍕🍔🍗
+Go-Feast🍕🍔🍗  A FOOD DELIVERY APP.   
 ----------------------------------------------------------------------------------
 
 TECHS USED IN DEVELOPMENT:
