@@ -1,6 +1,13 @@
 Go-Feast🍕🍔🍗 <br />  A FOOD DELIVERY APP.   
 ----------------------------------------------------------------------------------
 
+<br/>
+**Video with Explanation**
+https://github.com/Abhishek-hash/Go_Feast/assets/54746811/7243c6b0-39f9-4317-8f2d-ddd18f320c23
+
+
+<br/>
+
 TECHS USED IN DEVELOPMENT:
 --------------------------
 
@@ -102,7 +109,4 @@ Fix: It was a typo. Actually i was writing Children instead of children.
 ![Screenshot (614)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/6e50a3ef-9c67-4f64-aa3e-a783fc005c21)
 ![Screenshot (617)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/ac99989a-2208-4098-aa73-8a9300e61a04)
 
-<br/>
-**Video with Explanation**
-https://github.com/Abhishek-hash/Go_Feast/assets/54746811/7243c6b0-39f9-4317-8f2d-ddd18f320c23
 
