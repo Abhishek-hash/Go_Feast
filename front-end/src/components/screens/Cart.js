@@ -1,8 +1,11 @@
 import React from 'react'
-import Delete from '@material-ui/icons/Delete'
+//import Delete from '@material-ui/icons/Delete'
 import { useCart, useDispatchCart } from '../ContextReducer';
+import { useNavigate } from 'react-router-dom';
+import { DeleteForever } from '@mui/icons-material';
 
 export default function Cart() {
+  const navigate = useNavigate()
   let data = useCart();
   let dispatch = useDispatchCart();
   if (data.length === 0) {
@@ -16,7 +19,7 @@ export default function Cart() {
   //   console.log(index)
   //   dispatch({type:"REMOVE",index:index})
   // }
-
+  
   const handleCheckOut = async () => {
     let userEmail = localStorage.getItem("userEmail");
     // console.log(data,localStorage.getItem("userEmail"),new Date())
@@ -36,7 +39,9 @@ export default function Cart() {
     console.log("Order JSON RESPONSE:::::", response.status)
     if (response.status === 200) {
       dispatch({ type: "DROP" })
+      navigate('/payment')
     }
+    
   }
 
   let totalPrice = data.reduce((total, food) => total + food.price, 0)
@@ -64,7 +69,7 @@ export default function Cart() {
                 <td>{food.price}</td>
                 <td >
                   <button type="button" className="btn p-0">
-                    <Delete onClick={() => { dispatch({ type: "REMOVE", index: index }) }} />
+                    <DeleteForever onClick={() => { dispatch({ type: "REMOVE", index: index }) }} />
                     </button> 
                 </td>
               </tr>
