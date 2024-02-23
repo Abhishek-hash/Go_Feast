@@ -1,16 +1,18 @@
 import React, { useState } from 'react'
-import { Link } from 'react-router-dom'
+import { Link, useNavigate } from 'react-router-dom'
 
 function SignUp() {
+    const [showErr, setShowErr] = useState(false)
+    const [result, setResult] = useState(false)
     const [credentials, setCredentials] = useState({
         name: '',
         email: '',
         password: '',
         geolocation: '',
     })
-
+    let navigate = useNavigate()
     const handleSubmit = async (e) => {
-        //console.log('handel form submit')
+        //console.log('handle form submit')
         e.preventDefault();
         const response = await fetch('http://localhost:5003/api/createuser', {
             method: 'POST',
@@ -29,14 +31,20 @@ function SignUp() {
         const result = await response.json()
         console.log(result)
 
-        if(!result.success){
-            alert("Enter Valid Credentials")
+        if (!result.success) {
+            //alert("Enter Valid Credentials")
+            setShowErr(true)
+        }
+        else {
+            setResult(true)
+            navigate('/login')
         }
     }
 
     const onChange = (e) => {
-        setCredentials({ ...credentials, [e.target.name] : `${e.target.value}` })
-        console.log("credentials",credentials.email)
+        setCredentials({ ...credentials, [e.target.name]: `${e.target.value}` })
+        console.log("credentials", credentials.email)
+        setShowErr(false)
     }
 
     return (
@@ -92,7 +100,12 @@ function SignUp() {
                             onChange={onChange}
                         />
                     </div>
-
+                    {
+                        showErr && <div style={{ color: 'red' }}>*Please Enter Valid Credentials</div>
+                    }
+                    {
+                        result && <div style={{ color: 'palegreen' }}>Welcome! You are a new user created.</div>
+                    }
                     <button type="submit" className="btn btn-success">Submit</button>
                     <Link to='/login' className='m-3 btn btn-danger'>Already an user</Link>
                 </form>
