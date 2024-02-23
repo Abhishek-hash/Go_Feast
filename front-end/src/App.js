@@ -9,6 +9,7 @@ import SignUp from './components/screens/SignUp.js';
 import { CartProvider } from './components/ContextReducer.js';
 import Cart from './components/screens/Cart.js';
 import MyOrder from './components/screens/MyOrder.js';
+import Payment from './components/screens/Payment.js';
 
 function App() {
   return (
@@ -16,11 +17,13 @@ function App() {
       <BrowserRouter>
     <div>
      <Routes>
-      <Route path='/' element={<Home/>}/>
+      <Route path='/' element={<Login/>}/>
+      <Route path='/home' element={<Home/>}/>
       <Route path='/login' element={<Login/>}/>
       <Route path='/signup' element={<SignUp/>}/>
       <Route path='/myOrder' element={<MyOrder/>}/>
-      <Route path='cart' element={<Cart/>} />
+      <Route path='/cart' element={<Cart/>} />
+      <Route path='/payment' element={<Payment/>}/>
      </Routes>
     </div>
     </BrowserRouter>
