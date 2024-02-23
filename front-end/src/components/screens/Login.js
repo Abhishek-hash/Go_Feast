@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 
 function Login() {
+    const [showErr, setShowErr] = useState(false)
     const [credentials, setCredentials] = useState({
         email: '',
         password: '',
@@ -18,10 +19,10 @@ function Login() {
                 'Content-Type': 'application/json'
             },
             body: JSON.stringify({
-         
+
                 email: credentials.email,
                 password: credentials.password,
-            
+
             })
 
         })
@@ -29,25 +30,29 @@ function Login() {
         const result = await response.json()
         console.log(result)
 
-        if(result.success) {
-          localStorage.setItem("userEmail",credentials.email)
-          localStorage.setItem("authToken",result.authToken)
-          console.log(localStorage.getItem("authToken"))
-          navigate('/') 
-        }  
-        else alert("Enter Valid Credentials")
+        if (result.success) {
+            localStorage.setItem("userEmail", credentials.email)
+            localStorage.setItem("authToken", result.authToken)
+            console.log(localStorage.getItem("authToken"))
+            navigate('/Home')
+        }
+        else {
+            //alert("Enter Valid Credentials")
+            setShowErr(true)
+        }
     }
 
     const onChange = (e) => {
-        setCredentials({ ...credentials, [e.target.name] : `${e.target.value}` })
-        console.log("credentials",credentials.email)
+        setCredentials({ ...credentials, [e.target.name]: `${e.target.value}` })
+        console.log("credentials", credentials.email)
+        setShowErr(false)
     }
 
     return (
         <>
             <div className='container mt-3'>
                 <form onSubmit={handleSubmit}>
-                    
+
                     <div className="mb-3">
                         <label htmlFor="exampleInputEmail1" className="form-label">Email address</label>
                         <input
@@ -74,8 +79,9 @@ function Login() {
                             onChange={onChange}
                         />
                     </div>
-          
-
+                    {
+                        showErr && <div style={{ color: 'red' }}>*Please Enter Valid Credentials</div>
+                    }
                     <button type="submit" className="btn btn-success">Submit</button>
                     <Link to='/signup' className='m-3 btn btn-danger'>New user</Link>
                 </form>
