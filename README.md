@@ -98,7 +98,9 @@ Fix: It was a typo. Actually i was writing Children instead of children.
 <br/>
 ![Screenshot (618)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/9e61371b-0512-43b6-9330-f93dabe44325)
 
-![Screenshot (577)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/2e62eab8-8cc8-45fc-8823-0ea93c9a9d07)
+![Screenshot (577)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/2e62eab8-8cc8-45fc-8823-0ea93c9a9d07)![Screenshot (636)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/9f6212ef-5809-4e6a-8fc4-824b91877637)
+![Screenshot (635)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/0a9a2484-893c-45f1-9f2a-a2901d2bcd11)
+
 
 ![Screenshot (610)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/20d76f26-cb64-4647-b71c-69ef5676e772)
 ![Screenshot (612)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/132200f6-9c03-4634-8055-be7d6f3d507c)
@@ -110,4 +112,11 @@ Fix: It was a typo. Actually i was writing Children instead of children.
 ![Screenshot (614)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/6e50a3ef-9c67-4f64-aa3e-a783fc005c21)
 ![Screenshot (617)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/ac99989a-2208-4098-aa73-8a9300e61a04)
 
+
+
+
+![Screenshot (638)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/c0c3a949-c381-4916-9781-b950789dd691)
+![Screenshot (637)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/454c1326-b54f-4d27-ae87-ca966785eff8)
+![Screenshot (640)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/18fb1a9e-8fb6-4828-b8ac-18402cea46b4)
+![Screenshot (639)](https://github.com/Abhishek-hash/Go_Feast/assets/54746811/0a83bf98-b243-4d9f-a11c-2a965799a5fc)
 
